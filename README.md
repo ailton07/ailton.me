@@ -1,2 +1,4 @@
 # ailton.me
-Personal website
+Personal website created with Jekyll
+- http://jekyllthemes.org/themes/jekyll-theme-console/
+
